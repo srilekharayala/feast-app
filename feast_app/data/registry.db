@@ -1,0 +1,27 @@
+
+B
+"
+driver"	driver_idJdistinct_loon
+¨Ê––ÀøÎœ¨Ê––ÀøÎœ
+D
+$
+__dummy"
+__dummy_idJdistinct_loon
+¨Ê––ÀøÎœ¨Ê––ÀøÎœ1"$7c6ed18f-790a-4e31-afcd-3001f953a48c*¨Ê––ÀøÎœ2ğ
+Ï
+driver_hourly_statsdistinct_loondriver"
+	conv_rate"
+acc_rate"
+avg_daily_trips2€£:×event_timestamp*createdZB@C:\Users\habir\Documents\distinct_loon\data\driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢@C:\Users\habir\Documents\distinct_loon\data\driver_stats.parquet@b
+	driver_id
+¨Ê––ÀøÎœ¨Ê––ÀøÎœ:‰
+i
+driver_activitydistinct_loonG
+driver_hourly_stats
+	conv_rate
+acc_rate
+avg_daily_trips
+¨Ê––ÀøÎœ¨Ê––ÀøÎœR“
+
+,feast.infra.online_stores.sqlite.SqliteTable"`
+;C:\Users\habir\Documents\distinct_loon\data\online_store.db!distinct_loon_driver_hourly_statsbçevent_timestamp*createdZB@C:\Users\habir\Documents\distinct_loon\data\driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢@C:\Users\habir\Documents\distinct_loon\data\driver_stats.parquetªdistinct_loon
